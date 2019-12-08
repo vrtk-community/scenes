@@ -21,7 +21,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.oculus.standalone": "1.38.4",
     "com.unity.xr.openvr.standalone": "1.0.5",
-    "io.github.vrtk-community.extras": "file:/Unity/vrtk-community/extras",
+    "io.github.vrtk-community.extras": "https://github.com/vrtk-community/extras.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -58,6 +58,10 @@
     "com.svermeulen.extenject": {
       "hash": "b2746939227c47de4b00de2a0f772df3d7831e6f",
       "revision": "b2746939227c47de4b00de2a0f772df3d7831e6f"
+    },
+    "io.github.vrtk-community.extras": {
+      "hash": "f366a704cb5a412f76b8b79a64d123486538f874",
+      "revision": "HEAD"
     }
   }
 }
