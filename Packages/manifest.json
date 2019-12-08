@@ -9,6 +9,7 @@
     }
   ],
   "dependencies": {
+    "com.svermeulen.extenject": "https://github.com/starikcetin/Extenject.git#b2746939227c47de4b00de2a0f772df3d7831e6f",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ext.nunit": "1.0.0",
     "com.unity.ide.rider": "1.1.0",
@@ -20,7 +21,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.oculus.standalone": "1.38.4",
     "com.unity.xr.openvr.standalone": "1.0.5",
-    "io.github.vrtk-community.extras": "https://github.com/vrtk-community/extras.git",
+    "io.github.vrtk-community.extras": "file:/Unity/vrtk-community/extras",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -54,9 +55,9 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "io.github.vrtk-community.extras": {
-      "hash": "7896e519fde19134781bcc22895eeccfca96b8bc",
-      "revision": "HEAD"
+    "com.svermeulen.extenject": {
+      "hash": "b2746939227c47de4b00de2a0f772df3d7831e6f",
+      "revision": "b2746939227c47de4b00de2a0f772df3d7831e6f"
     }
   }
 }
